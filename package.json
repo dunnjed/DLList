@@ -1,0 +1,22 @@
+{
+  "name": "DLList",
+  "version": "0.1.0",
+  "description": "Doubly-linked list",
+  "main": "DLList.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "doubly",
+    "linked",
+    "list"
+  ],
+  "author": {
+      "name": "dunnjed"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
